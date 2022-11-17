@@ -1,5 +1,7 @@
 # SI-GuidedProject-336781-1665727834
 Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Companies Using IBM Cloud
+
+
 Nowadays, a lot of money is being wasted in the car insurance business due to leakage claims.
 Claims leakage /Underwriting leakage is characterized as the discrepancy between the actual 
 payment of claims made and the sum that should have been paid if all of the industry's leading
